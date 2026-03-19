@@ -16,7 +16,7 @@ A high-intensity, aggressive dark theme.
 - **Accents**: Crimson Red (`#a62a2a`) & Cursed Gold (`#d4a017`)
 - **Vibe**: Power and dominance. Sharp contrasts for maximum focus.
 
-![Malevolent Shrine](images/Screenshot%202026-03-20%20010323.png)
+![Malevolent Shrine](images/Screenshot%202026-03-20%20010345.png)
 
 
 
@@ -27,7 +27,7 @@ A sophisticated, high-end theme with deep purple and blue tones.
 - **Vibe**: Endless perception. Sleek, modern, and easy on the eyes.
 
 
-![Infinite Void](images/Screenshot%202026-03-20%20010229.png)
+![Infinite Void](images/Screenshot%202026-03-20%20010323.png)
 
 
 ### ⚪ Divine Collapse (Celestial Destruction)
