@@ -26,6 +26,11 @@
         "label": "Infinite Void",
         "uiTheme": "vs-dark",
         "path": "./themes/Infinite Void-color-theme.json"
+      },
+      {
+        "label": "Null Existence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Null Existence-color-theme.json"
       }
     ]
   }
