@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./images/banner.png" alt="Malevolent Shrine Banner" width="800">
   <h1>🏯 Malevolent Shrine - Habrmnc</h1>
   <p><i>"Ha ha ha, yowaimo!"</i></p>
   <p>A minimalist, dark theme inspired by Ryomen Sukuna's Domain Expansion. Precision. Power. Perfection.</p>
