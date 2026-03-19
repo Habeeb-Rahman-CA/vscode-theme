@@ -18,22 +18,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Malevolent Shrine",
+        "label": "Habrmnc - Malevolent Shrine",
         "uiTheme": "vs-dark",
         "path": "./themes/Malevolent Shrine-color-theme.json"
       },
       {
-        "label": "Infinite Void",
+        "label": "Habrmnc - Infinite Void",
         "uiTheme": "vs-dark",
         "path": "./themes/Infinite Void-color-theme.json"
       },
       {
-        "label": "Null Existence",
+        "label": "Habrmnc - Null Existence",
         "uiTheme": "vs-dark",
         "path": "./themes/Null Existence-color-theme.json"
       },
       {
-        "label": "Divine Collapse",
+        "label": "Habrmnc - Divine Collapse",
         "uiTheme": "vs-dark",
         "path": "./themes/Divine Collapse-color-theme.json"
       }
