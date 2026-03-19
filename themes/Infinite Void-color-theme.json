@@ -1,0 +1,87 @@
+{
+	"name": "Infinite Void",
+	"colors": {
+		"editor.background": "#000000",
+		"editor.foreground": "#ffffff",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#404040",
+		"activityBar.border": "#111111",
+		"activityBarBadge.background": "#ffffff",
+		"activityBarBadge.foreground": "#000000",
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.foreground": "#ffffff",
+		"sideBarSectionHeader.border": "#111111",
+		"sideBar.foreground": "#a0a0a0",
+		"sideBar.background": "#000000",
+		"sideBar.border": "#111111",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionForeground": "#ffffff",
+		"list.hoverForeground": "#ffffff",
+		"list.focusForeground": "#ffffff",
+		"list.activeSelectionBackground": "#ffffff20",
+		"list.hoverBackground": "#ffffff10",
+		"statusBar.background": "#000000",
+		"statusBar.foreground": "#ffffff",
+		"statusBar.border": "#111111",
+		"titleBar.activeBackground": "#000000",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.border": "#111111",
+		"tab.activeBackground": "#000000",
+		"tab.activeForeground": "#ffffff",
+		"tab.inactiveBackground": "#000000",
+		"tab.inactiveForeground": "#404040",
+		"tab.activeBorder": "#ffffff",
+		"editor.selectionBackground": "#ffffff30",
+		"terminal.background": "#000000",
+		"terminal.foreground": "#ffffff",
+		"terminal.ansiBlue": "#007acc",
+		"terminal.ansiBrightBlue": "#00aaff"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": ["comment", "punctuation.definition.comment"],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#505050"
+			}
+		},
+		{
+			"name": "Keywords & Storage",
+			"scope": ["keyword", "storage.type", "storage.modifier", "keyword.control"],
+			"settings": {
+				"foreground": "#bc9ecc" // Purple
+			}
+		},
+		{
+			"name": "Functions & Methods",
+			"scope": ["entity.name.function", "meta.function-call", "variable.function", "support.function"],
+			"settings": {
+				"foreground": "#a0c0ff" // Blue
+			}
+		},
+		{
+			"name": "Tags & Deleted",
+			"scope": ["entity.name.tag", "markup.deleted"],
+			"settings": {
+				"foreground": "#c07a7a" // Red
+			}
+		},
+		{
+			"name": "Variables & Constants",
+			"scope": ["variable", "constant", "support.constant", "constant.numeric", "constant.language"],
+			"settings": {
+				"foreground": "#ffffff" // White
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": ["string"],
+			"settings": {
+				"foreground": "#ffffff" // White
+			}
+		}
+	]
+}

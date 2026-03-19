@@ -21,6 +21,11 @@
         "label": "Malevolent Shrine",
         "uiTheme": "vs-dark",
         "path": "./themes/Malevolent Shrine-color-theme.json"
+      },
+      {
+        "label": "Infinite Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Infinite Void-color-theme.json"
       }
     ]
   }
